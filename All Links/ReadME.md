@@ -1,25 +1,19 @@
-##Earth Green Pulse
+Earth Green Pulse 
 
-## Demo Presentation
-
+Demo Presentation
 https://www.canva.com/design/DAGSfq22fqI/MatTmi4zCnQnQyBNep5zUA/view
 
-## Full Presentation
-
+Full Presentation 
 https://www.canva.com/design/DAGSrwxp3Yw/V5T72n1PP0JHsETCu9cICQ/view
 
-## Video
-
+Video
 https://www.canva.com/design/DAGSr-N_PKY/gt_fofM8EbtEGF6ej8HvHQ/watch
 
-## Website
-
+Website
 https://earth-green-pulse.devlotech.com/
 
-## Github
-
+Github
 https://github.com/umairazmat/Earth-Green-Pulse
 
-## Dashboard
-
+Dashboard
 https://dashboardnasa.streamlit.app/
